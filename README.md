@@ -1,4 +1,4 @@
-# Axalta Coating Systems (axalta-coating-systems)
+# Axalta Coating Systems
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,76 +66,80 @@
 
 Axalta Coating Systems is a global supplier of liquid and powder coatings for transportation and industrial end-markets, operating through Performance Coatings (refinish and industrial) and Mobility Coatings (light vehicle and commercial vehicle) segments. Brands include Cromax, Spies Hecker, Standox, Imron, and Voltatex. In July 2024 Axalta acquired The CoverFlexx Group from Transtar Holding for $285 million to expand its economy-tier aftermarket coverage in North America. In November 2025 Axalta announced a $17 billion all-stock merger of equals with AkzoNobel that is expected to close in late 2026 or early 2027, forming a coatings company with dual headquarters in Amsterdam and Philadelphia.
 
-**URL:** [https://www.axalta.com/](https://www.axalta.com/)
+**Areas:** Coatings · Industrial Coatings · Automotive Refinish · Mobility · Manufacturing · Materials Science · Sustainability
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=axalta-coating-systems-api-evangelist&utm_content=repo)
+## Axalta Coating Systems on APIs.io
 
-## Tags:
+Everything profiled for Axalta Coating Systems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/axalta-coating-systems/](https://apis.io/providers/axalta-coating-systems/)** — or go straight to one of the APIs or properties below.
 
- - Coatings, Industrial Coatings, Automotive Refinish, Mobility, Manufacturing, Materials Science, Sustainability
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2024-01-15
-- **Modified:** 2026-05-23
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. Axalta Coating Systems is an industrial coatings manufacturer; its developer-facing surface area is effectively absent. The company's GitHub organization exists at [github.com/axalta](https://github.com/axalta) but has zero public repositories. Customer-facing digital surfaces (color matching tools, body shop platforms) are delivered as packaged software rather than as documented public APIs.
+- [Axalta Coating Systems Domain Security](https://apis.io/security/axalta-coating-systems/axalta-coating-systems-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.axalta.com/)
-- [About](https://www.axalta.com/corporate/en_US/about-axalta.html)
-- [GitHubOrganization](https://github.com/axalta)
-- [LinkedIn](https://www.linkedin.com/company/axalta-coating-systems)
-- [PrivacyPolicy](https://www.axalta.com/corporate/en_US/legal-notices/privacy-policy.html)
-- [TermsOfService](https://www.axalta.com/corporate/en_US/legal-notices/terms-of-use.html)
-- [Newsroom](https://www.axalta.com/corporate/en_US/newsroom.html)
-- [InvestorRelations](https://ir.axalta.com/)
-- [Sustainability](https://www.axalta.com/corporate/en_US/sustainability.html)
-- [Contact](https://www.axalta.com/corporate/en_US/contact-us.html)
+- [Terms of service](https://www.axalta.com/corporate/en_US/legal-notices/terms-of-use.html)
+- [Privacy policy](https://www.axalta.com/corporate/en_US/legal-notices/privacy-policy.html)
+- [GitHub](https://github.com/axalta)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Performance Coatings Segment | Refinish and industrial end-market coatings, including automotive body shop products and protective coatings for pipelines, equipment, and structural steel |
-| Mobility Coatings Segment | Coatings technologies for light vehicle and commercial vehicle OEMs covering both passenger cars and heavy-duty trucks |
-| Refinish Brands | Premium refinish brands including Cromax, Spies Hecker, and Standox serving collision repair body shops globally |
-| Industrial Brands | Industrial brands including Imron protective coatings and Voltatex electrical insulation systems |
-| Powder Coatings | Liquid and powder coatings portfolio for architectural, appliance, automotive component, and general industrial applications |
+**Kin Score 3.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| Automotive Refinish | Color matching, basecoats, clearcoats, and undercoats supplied to collision repair body shops worldwide |
-| Light Vehicle OEM Coatings | Production-line e-coat, primer, basecoat, and clearcoat systems applied at light vehicle assembly plants |
-| Commercial Vehicle Coatings | Heavy-duty truck, bus, and agricultural equipment coatings designed for durability and corrosion resistance |
-| Industrial Protective Coatings | Coatings for pipelines, infrastructure, structural steel, and general industrial equipment |
-| Electrical Insulation | Voltatex electrical insulation coatings and impregnating resins for motors, transformers, and generators |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Body Shop Management Systems | Color matching and inventory tools that integrate with collision repair body shop management platforms |
-| OEM Production Lines | Coatings applied directly on OEM vehicle assembly lines integrated with paint shop equipment and process controls |
-| Distribution Partners | Global distribution network serving automotive aftermarket distributors, industrial coating applicators, and OEM customers |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Recent Corporate Activity
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/axalta-coating-systems/](https://apis.io/providers/axalta-coating-systems/).
 
-- **November 2025**: Announced all-stock merger of equals with AkzoNobel ($17B revenue, $25B enterprise value combined); expected to close late 2026 / early 2027. AkzoNobel shareholders will own 55%, Axalta shareholders 45%; dual headquarters in Amsterdam and Philadelphia.
-- **July 2024**: Completed acquisition of The CoverFlexx Group from Transtar Holding Company for $285M plus a $10M earnout, expanding economy-tier aftermarket coatings coverage in North America (brands include Transtar Autobody Technologies, Pro-Form, and Aftermkt Armor).
-- **2025**: Reported record full-year Adjusted EBITDA despite a 3% decline in net sales.
+## How this profile is made
 
-## Sustainability
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-Axalta's "2026 A Plan" guides the company's sustainability strategy across four areas: innovative sustainable products, operational footprint management, health and safety, and ethical value-chain conduct. Sustainability reports are published on a biennial cadence (most recent: 2023-2024 report).
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Axalta Coating Systems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Maintainers
+## Open an issue
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/axalta-coating-systems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
